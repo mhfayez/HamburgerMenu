@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="HamburgerMenu.ContactDetails"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:HamburgerMenu"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    mc:Ignorable="d">
+
+    <Grid>
+        <TextBlock
+            Height="100"
+            Margin="0,20"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            FontSize="60">
+            Contact Details
+        </TextBlock>
+
+    </Grid>
+</Page>
